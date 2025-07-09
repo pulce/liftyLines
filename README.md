@@ -22,7 +22,7 @@ Generates map layer for XCTrack to display locally exposed areas.
 
 ## Installation
 liftyLines is a Java application (Linux/Windows/Mac), thus you must have a Java Runtime Environment version 17 or newer (Oracle jre1.8 is not enough!). In doubt, check `java -version` in cmd or install OpenJDK in newest version.
-- Download the [latest release](https://github.com/pulce/liftyLines/releases/latest)
+- Download the [latest release](https://github.com/pulce/liftyLines/releases/latest) of liftyLines
 - Unzip to a folder in your user-space (e.g. `/home/you/liftyLines/` or `C:\Users\you\liftyLines\`)
 - Optional: Create a shortcut to executable so you don’t have to type full paths like it’s 1998. If you don’t know how -- you guessed it -- summon Google or ChatGPT.
 
