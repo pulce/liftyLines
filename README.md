@@ -1,6 +1,6 @@
 # liftyLines
 
-> Generates map layer for XCTrack to display locally exposed areas.
+Generates map layer for XCTrack to display locally exposed areas.
 
 ## Use Case
 - Flatland XC pilots want a quick way to spot hills, i.e. thermal triggers.
@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-- [Installation](##installation)
+- [Installation](#installation)
 - [Usage & Arguments](#usage)
 - [Map usage in XCTrack](#map-usage-in-xctrack) 
 - [Notes on liftylines_theme.xml](#notes-on-liftylines_themexml)
