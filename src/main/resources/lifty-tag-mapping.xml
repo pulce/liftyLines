@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tag-mapping default-zoom-appear="16"
+             profile-name="default-profile">
+    <ways>
+        <osm-tag key="liftyline" value="1" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="2" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="3" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="4" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="5" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="6" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="7" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="8" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="9" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="10" zoom-appear="0"/>
+    </ways>
+    <dependencies>
+        <osm-tag key="liftyline" value="1" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="2" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="3" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="4" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="5" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="6" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="7" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="8" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="9" zoom-appear="0"/>
+        <osm-tag key="liftyline" value="10" zoom-appear="0"/>
+    </dependencies>
+
+</tag-mapping>
