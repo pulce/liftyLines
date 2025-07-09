@@ -119,7 +119,7 @@ Great for testing/debugging as you can check out the resulting .osm map directly
 
 ## Contact
 Bugs, questions or suggestions? Write me:\
-<img src="images/hidden.png" alt="contact" width="140px"/>
+<img src="images/hidden.png" alt="contact" width="150px"/>
 
 ## License
 All original files (see copyright) are free software: you can redistribute and/or modify them under the 
