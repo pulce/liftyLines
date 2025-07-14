@@ -88,8 +88,9 @@ These parameters control resolution, zoom-levels, and the existential pain of re
 
 ## Map usage in XCTrack
 - Copy the .map and the .xml theme file to the Roadmap folder in XCTrack. As Android loves protecting its precious app directories, file transfer usually works best via USB. Plug your phone into your computer (yes, with a cable), allow file transfer (yes, that extra tap), then navigate to: `/Android/data/org.xcontest.XCTrack/files/Map/Roadmap` and paste.
-- In XCTrack preferences/Maps/Road Map/Custom map style -> select the .xml theme you copied before. Confirm your choice.
 - In XCTrack preferences/Maps/Road Map/Map files/Manage -> activate the .map you copied before. Note that you can activate multiple maps, thus you can use normal road maps beside several liftyLines maps.
+- In XCTrack preferences/Maps/Road Map/Custom map style -> select the .xml theme you copied before. Confirm your choice.
+- In some versions of XCTrack you also have to activate the custom map style in the map widget: Customize -> select map -> Configure Widget -> Map configuration -> Road map and terrain style -> dropdown -> Classic styles (hillshading) -> Custom style | -.
 - Zoom in for eye-candy.
 
 If you want to try out such a map before installing liftyLines, [download the sample map.](images/Chiemsee.zip) Enjoy swiping your way to Bavaria if you live down-under.
